@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🩷
 
-<!--
-**fabyzzz/fabyzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é faby
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
+
+@alurastartestudante
+
+![]()
+<img src="https://media0.giphy.com/media/LE7HSWdlpWtBiLDSFu/200.gif?cid=6c09b952mrt4vmv81j7wr5rkw23s8mmlnattm83lv5o9cs8m&amp;ep=v1_gifs_search&amp;rid=200.gif&amp;ct=g" alt="The Simpsons Meme GIFs - Find &amp; Share on GIPHY"/>!
